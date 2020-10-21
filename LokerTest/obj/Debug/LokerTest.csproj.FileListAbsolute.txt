@@ -1,0 +1,9 @@
+D:\PROJECT\MyProject\PROCESS_RECRUITMENT\CODEMI\LokerTest\LokerTest\bin\Debug\LokerTest.exe.config
+D:\PROJECT\MyProject\PROCESS_RECRUITMENT\CODEMI\LokerTest\LokerTest\bin\Debug\LokerTest.exe
+D:\PROJECT\MyProject\PROCESS_RECRUITMENT\CODEMI\LokerTest\LokerTest\bin\Debug\LokerTest.pdb
+D:\PROJECT\MyProject\PROCESS_RECRUITMENT\CODEMI\LokerTest\LokerTest\obj\Debug\LokerTest.exe
+D:\PROJECT\MyProject\PROCESS_RECRUITMENT\CODEMI\LokerTest\LokerTest\obj\Debug\LokerTest.pdb
+D:\PROJECT\MyProject\PROCESS_RECRUITMENT\CODEMI\LokerTest\LokerTest\bin\Debug\LokerTest.exe.manifest
+D:\PROJECT\MyProject\PROCESS_RECRUITMENT\CODEMI\LokerTest\LokerTest\bin\Debug\LokerTest.application
+D:\PROJECT\MyProject\PROCESS_RECRUITMENT\CODEMI\LokerTest\LokerTest\obj\Debug\LokerTest.exe.manifest
+D:\PROJECT\MyProject\PROCESS_RECRUITMENT\CODEMI\LokerTest\LokerTest\obj\Debug\LokerTest.application

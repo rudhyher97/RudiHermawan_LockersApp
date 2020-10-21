@@ -12,3 +12,6 @@ akses login
 username : admin
 password : admin
 
+Untuk membuka Source Code 
+Gunakan Microsoft Visual Studio 2012
+pilih File LokerTest.sln
